@@ -1,0 +1,16 @@
+# Секрети - ніколи не публікувати
+.env
+tplus_tokens.json
+tplus_tokens.json.tmp
+
+# Дані клієнтів і робочі файли бота
+*.db
+closed_tickets.json
+part_codes.json
+part_codes.json.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

@@ -1,0 +1,12 @@
+aiogram>=3.0
+aiohttp
+APScheduler
+beautifulsoup4
+
+# голосові повідомлення
+SpeechRecognition
+imageio-ffmpeg
+
+# пошук за фото (безкоштовний OCR)
+rapidocr-onnxruntime
+pillow
